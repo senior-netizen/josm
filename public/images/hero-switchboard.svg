@@ -1,0 +1,25 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" fill="#0B0F17"/>
+  <rect x="70" y="70" width="1460" height="960" rx="8" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <rect x="130" y="130" width="560" height="840" fill="#0F172A" stroke="#475569"/>
+  <rect x="730" y="130" width="740" height="840" fill="#0F172A" stroke="#475569"/>
+  <g stroke="#3B82F6" stroke-width="3">
+    <line x1="180" y1="230" x2="640" y2="230"/>
+    <line x1="180" y1="330" x2="640" y2="330"/>
+    <line x1="180" y1="430" x2="640" y2="430"/>
+    <line x1="180" y1="530" x2="640" y2="530"/>
+    <line x1="780" y1="210" x2="1420" y2="210"/>
+    <line x1="780" y1="330" x2="1420" y2="330"/>
+    <line x1="780" y1="450" x2="1420" y2="450"/>
+    <line x1="780" y1="570" x2="1420" y2="570"/>
+    <line x1="780" y1="690" x2="1420" y2="690"/>
+  </g>
+  <g fill="#1E293B" stroke="#64748B">
+    <rect x="190" y="600" width="140" height="280"/>
+    <rect x="350" y="600" width="140" height="280"/>
+    <rect x="510" y="600" width="140" height="280"/>
+    <rect x="800" y="760" width="300" height="160"/>
+    <rect x="1130" y="760" width="300" height="160"/>
+  </g>
+  <text x="130" y="60" fill="#CBD5E1" font-size="30" font-family="Inter, Arial, sans-serif">JOSM Control Panel Assembly</text>
+</svg>
