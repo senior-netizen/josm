@@ -32,7 +32,7 @@ export function HeroSection() {
         <div className="relative w-full flex-1">
           <div className="glass-card relative overflow-hidden border-white/15 p-2 shadow-glow">
             <Image
-              src="/images/hero-switchboard.svg"
+              src="/images/hero-reference-switchboard.svg"
               alt="Industrial electrical control panel"
               width={1400}
               height={1000}
