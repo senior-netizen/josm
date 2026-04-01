@@ -55,7 +55,7 @@ export const projects = [
   {
     title: 'Mining Processing Plant Retrofit',
     image:
-      'https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1400&q=80',
+      '/images/project-mining.svg',
     problem: 'Aging switchgear caused frequent unplanned shutdowns.',
     solution: 'Deployed modular switchboards and PLC-based load balancing.',
     outcome: 'Reduced downtime by 37% within the first operating quarter.'
@@ -63,7 +63,7 @@ export const projects = [
   {
     title: 'Agri-Processing Expansion',
     image:
-      'https://images.unsplash.com/photo-1581093469316-56ee6a0a3dfb?auto=format&fit=crop&w=1400&q=80',
+      '/images/project-agri.svg',
     problem: 'Seasonal demand exceeded existing panel capacity.',
     solution: 'Engineered dual-source distribution with automated transfer logic.',
     outcome: 'Secured uninterrupted production through peak harvesting cycles.'
@@ -71,7 +71,7 @@ export const projects = [
   {
     title: 'Manufacturing Plant Power Upgrade',
     image:
-      'https://images.unsplash.com/photo-1565438049492-55d8ffb89fd1?auto=format&fit=crop&w=1400&q=80',
+      '/images/project-manufacturing.svg',
     problem: 'Voltage instability compromised CNC line quality.',
     solution: 'Installed filtered control panels with real-time power quality monitoring.',
     outcome: 'Improved process consistency and reduced defect rates by 22%.'
